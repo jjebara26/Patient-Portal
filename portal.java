@@ -1,4 +1,4 @@
-package hw4.java;
+package portal.java;
 
 
 import javafx.application.Application;
@@ -9,7 +9,7 @@ import javafx.scene.layout.*;
 import javafx.stage.*;
 import javafx.geometry.*;
 
-public class hw4 extends Application {
+public class portal extends Application {
 	public static void main(String[] args) {
         launch(args);
     }
